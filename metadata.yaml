@@ -1,0 +1,37 @@
+_repo: The-Earl-of-Essex--A-Tragedy-in-Five-Acts_31397
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Henry
+    birthdate: 1721
+    deathdate: 1770
+    gutenberg_agent_id: '35524'
+    url: http://www.gutenberg.org/2009/agents/35524
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Jones_%28poet%29
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essex, Robert Devereux, Earl of, 1566-1601 -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+title: 'The Earl of Essex: A Tragedy, in Five Acts'
+url: http://www.gutenberg.org/ebooks/31397
